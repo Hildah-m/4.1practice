@@ -1,0 +1,1 @@
+This is a simple javascript function that helps you organize your shopping list. It takes in an array of grocery items and quantities ,and returns a formatted string with the item and their quantities
